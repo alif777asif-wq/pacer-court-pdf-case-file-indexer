@@ -1,0 +1,10 @@
+# caches and virtual environments
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# court PDFs are fetched from the pinned source, never committed
+data/corpus/
+proof/outputs/case_files/
+# 4000 x 3000 exports stay in the extracted folder for uploading to Upwork
+portfolio/export/

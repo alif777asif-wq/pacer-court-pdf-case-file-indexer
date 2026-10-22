@@ -1,0 +1,242 @@
+{
+  "retrieved": "2026-10-21",
+  "licence": "BSD-2-Clause (repository licence of freelawproject/doctor and freelawproject/x-ray)",
+  "note": "Public federal-court records distributed as open test assets by Free Law Project.",
+  "files": [
+    {
+      "local_name": "doctor__ca10_010110462922.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_documents/ca10_010110462922.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_documents/ca10_010110462922.pdf",
+      "sha256": "280be3c8c9ef245847633aac1c00e36d6a13da2a090d22838158c538ecbd8a47",
+      "bytes": 19208
+    },
+    {
+      "local_name": "doctor__ca1_00117684624.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_documents/ca1_00117684624.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_documents/ca1_00117684624.pdf",
+      "sha256": "9d81ff550ec8d851dfb9cf6f7f52fce73cd4f115470d30d51e5af77151a66534",
+      "bytes": 44607
+    },
+    {
+      "local_name": "doctor__ca2_1-1.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_documents/ca2_1-1.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_documents/ca2_1-1.pdf",
+      "sha256": "a4b93b8b9063295808c8d84c7fd12d77ba492799f1296392abebb7c76547b68f",
+      "bytes": 35175
+    },
+    {
+      "local_name": "doctor__ca7_3.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_documents/ca7_3.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_documents/ca7_3.pdf",
+      "sha256": "ffd9b75c84a63973b951b6a7dffcc04b73170d38808539274fe9026c29d445af",
+      "bytes": 58670
+    },
+    {
+      "local_name": "doctor__gov.uscourts.azd.1085839.3.0.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_extract/gov.uscourts.azd.1085839.3.0.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_extract/gov.uscourts.azd.1085839.3.0.pdf",
+      "sha256": "3504c832ec6845f37d0c51e793fbb8572f16b82ba57f5d905618aeb84fff3532",
+      "bytes": 590234
+    },
+    {
+      "local_name": "doctor__gov.uscourts.cacd.652774.40.0.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_extract/gov.uscourts.cacd.652774.40.0.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_extract/gov.uscourts.cacd.652774.40.0.pdf",
+      "sha256": "44e06abc9865b0083d3bc99ca8fa1611c0d36c3b8671583bfa86b0279765292e",
+      "bytes": 45085
+    },
+    {
+      "local_name": "doctor__gov.uscourts.cand.203070.27.0.pdf",
+      "source_repo": "https://github.com/freelawproject/doctor",
+      "commit": "cce98c25f5bcf4b7340b33c5d81cfb2466624b4e",
+      "path_in_repo": "doctor/test_assets/recap_extract/gov.uscourts.cand.203070.27.0.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/doctor/cce98c25f5bcf4b7340b33c5d81cfb2466624b4e/doctor/test_assets/recap_extract/gov.uscourts.cand.203070.27.0.pdf",
+      "sha256": "99101de2343b531bbaa70d8ad2cbaf2194a600f597dc8d4cb8dde9c1021dcbd5",
+      "bytes": 94496
+    },
+    {
+      "local_name": "xray__multi_line_redaction_ok.pdf",
+      "source_repo": "https://github.com/freelawproject/x-ray",
+      "commit": "4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779",
+      "path_in_repo": "tests/assets/multi_line_redaction_ok.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/x-ray/4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779/tests/assets/multi_line_redaction_ok.pdf",
+      "sha256": "82c223c84cd591a66a202aacf91fa8cc5520cdda3571fb6500b4e0fdb1ee55e1",
+      "bytes": 157479
+    },
+    {
+      "local_name": "xray__no_bad_redactions.4.1.pdf",
+      "source_repo": "https://github.com/freelawproject/x-ray",
+      "commit": "4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779",
+      "path_in_repo": "tests/assets/no_bad_redactions.4.1.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/x-ray/4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779/tests/assets/no_bad_redactions.4.1.pdf",
+      "sha256": "1933de77c0bd0c8d330be9d46605f31b5f4c634061e3bbf89a4ceed1ff826c2b",
+      "bytes": 36695
+    },
+    {
+      "local_name": "xray__no_bad_redactions.6.2.pdf",
+      "source_repo": "https://github.com/freelawproject/x-ray",
+      "commit": "4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779",
+      "path_in_repo": "tests/assets/no_bad_redactions.6.2.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/x-ray/4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779/tests/assets/no_bad_redactions.6.2.pdf",
+      "sha256": "f5c7b1ef970a60857b671ce3d64feb5d18fe55e9c4646e21adaef221171facce",
+      "bytes": 70516
+    },
+    {
+      "local_name": "xray__rect_ordering_0.8.pdf",
+      "source_repo": "https://github.com/freelawproject/x-ray",
+      "commit": "4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779",
+      "path_in_repo": "tests/assets/rect_ordering_0.8.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/x-ray/4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779/tests/assets/rect_ordering_0.8.pdf",
+      "sha256": "ddb9e890915cbdbfb725c1c9c0e6e023ca20b42f0562d64e029598110e25a149",
+      "bytes": 22923
+    },
+    {
+      "local_name": "xray__rect_ordering_4.1.pdf",
+      "source_repo": "https://github.com/freelawproject/x-ray",
+      "commit": "4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779",
+      "path_in_repo": "tests/assets/rect_ordering_4.1.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/x-ray/4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779/tests/assets/rect_ordering_4.1.pdf",
+      "sha256": "3f8e34d05f9388c60ee1719861d79e350b4b7c497a3dbfe18871fdfbae9a90f9",
+      "bytes": 5100
+    },
+    {
+      "local_name": "xray__rectangles_no.pdf",
+      "source_repo": "https://github.com/freelawproject/x-ray",
+      "commit": "4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779",
+      "path_in_repo": "tests/assets/rectangles_no.pdf",
+      "url": "https://raw.githubusercontent.com/freelawproject/x-ray/4dd5b0bcc5cdd774b9e82fc47b1d7208e92e4779/tests/assets/rectangles_no.pdf",
+      "sha256": "79fc25180b27593a2caace37c3802cb86d1205d35847a69dcd92302d0a354854",
+      "bytes": 22434
+    }
+  ],
+  "excluded": [
+    {
+      "candidate": "doctor/recap_documents/ca3_003112692106",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "doctor/recap_documents/ca4_17 (found only after OCR)",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "doctor/recap_documents/ca6_1-3",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "doctor/recap_documents/ca8_",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "doctor/recap_documents/ca9_19",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "doctor/recap_documents/cafc_3",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/no_bad_redactions.2.1",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/no_bad_redactions.3.2",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/ok_words",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/partial_intersections_ok",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/rect_ordering_1.23",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/rect_ordering_3.20",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/rect_ordering_6.19",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/unfilled_rect",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/hidden_text_on_visible_text",
+      "reason": "pii-screen: contact details (email/phone/street address) detected"
+    },
+    {
+      "candidate": "x-ray/bad_cross_hatched_redactions",
+      "reason": "redaction test file whose name states that redacted text is recoverable"
+    },
+    {
+      "candidate": "x-ray/rectangles_yes",
+      "reason": "redaction test file whose name states that redacted text is recoverable"
+    },
+    {
+      "candidate": "x-ray/whitespace_redaction_with_comma",
+      "reason": "redaction test file whose name states that redacted text is recoverable"
+    },
+    {
+      "candidate": "x-ray/whitespace_redactions",
+      "reason": "redaction test file whose name states that redacted text is recoverable"
+    },
+    {
+      "candidate": "x-ray/whitespace_redactions_2",
+      "reason": "redaction test file whose name states that redacted text is recoverable"
+    },
+    {
+      "candidate": "x-ray/no_bad_redactions.3.1",
+      "reason": "not a court filing (map printout / letter-sequence test file)"
+    },
+    {
+      "candidate": "x-ray/rectangles_yes_2",
+      "reason": "not a court filing (map printout / letter-sequence test file)"
+    },
+    {
+      "candidate": "x-ray/rect_ordering_2.1",
+      "reason": "personal financial records of an individual debtor"
+    },
+    {
+      "candidate": "x-ray/rect_ordering_5.2",
+      "reason": "personal financial records of an individual debtor"
+    },
+    {
+      "candidate": "doctor/ca1-opinion",
+      "reason": "sensitive personal matter (immigration removal, habeas judgment, detention-case exhibit, insured spouse's death benefit, individual declarant's residence)"
+    },
+    {
+      "candidate": "doctor/recap_documents/ca5_00516242060",
+      "reason": "sensitive personal matter (immigration removal, habeas judgment, detention-case exhibit, insured spouse's death benefit, individual declarant's residence)"
+    },
+    {
+      "candidate": "x-ray/no_bad_redactions.7.1",
+      "reason": "sensitive personal matter (immigration removal, habeas judgment, detention-case exhibit, insured spouse's death benefit, individual declarant's residence)"
+    },
+    {
+      "candidate": "x-ray/no_bad_redactions.8.1",
+      "reason": "sensitive personal matter (immigration removal, habeas judgment, detention-case exhibit, insured spouse's death benefit, individual declarant's residence)"
+    },
+    {
+      "candidate": "x-ray/no_bad_redactions.5.5",
+      "reason": "sensitive personal matter (immigration removal, habeas judgment, detention-case exhibit, insured spouse's death benefit, individual declarant's residence)"
+    }
+  ]
+}

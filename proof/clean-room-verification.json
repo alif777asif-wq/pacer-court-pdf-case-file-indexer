@@ -1,0 +1,31 @@
+{
+  "unzipped_with": "cd ~/Downloads && unzip -o <repo-name>.zip && cd <repo-name> (HOME pointed at an empty temporary directory)",
+  "reproduce_exit_code": 0,
+  "tests": {
+    "tests": 44,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "passed": 44,
+    "seconds": 3.223
+  },
+  "correctness_fields_identical_to_primary_run": true,
+  "readme_table_matches_new_results_except_duration_rows": false,
+  "zip_top_level_folders": [
+    "pacer-court-pdf-case-file-indexer"
+  ],
+  "git_tracked_files": 62,
+  "git_untracked_after_commit": 0,
+  "durations_this_run": {
+    "run_seconds": 3.341,
+    "stage_seconds": {
+      "1 read + OCR": 1.63,
+      "2 organise": 0.005,
+      "3 report": 0.0,
+      "4 verify": 1.684,
+      "5 workbook": 0.02
+    }
+  },
+  "git_tracked_4000x3000_exports": 0,
+  "git_tracked_court_pdfs": 0
+}

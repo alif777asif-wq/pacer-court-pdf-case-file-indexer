@@ -1,0 +1,223 @@
+{
+  "1-federal-court-pdf-indexer-python-outcome": {
+    "size": [
+      4000,
+      3000
+    ],
+    "png_bytes": 306946,
+    "jpg_bytes": 1728568,
+    "png": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 306946,
+      "mode": "RGB"
+    },
+    "jpg": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 1728568,
+      "mode": "RGB",
+      "chroma_subsampling": "4:4:4",
+      "exceeds_5MB": false
+    },
+    "outside_safe_zone": [],
+    "outside_core_zone": [],
+    "overflowing_elements": [],
+    "smallest_text_px": 16,
+    "overlaps": [],
+    "fonts": [
+      "IBM Plex Mono 400 normal loaded",
+      "IBM Plex Mono 500 normal loaded",
+      "Newsreader 400 italic loaded",
+      "Newsreader 400 normal loaded",
+      "Newsreader 500 normal loaded"
+    ]
+  },
+  "2-court-pdf-organiser-before-after": {
+    "size": [
+      4000,
+      3000
+    ],
+    "png_bytes": 451837,
+    "jpg_bytes": 2672541,
+    "png": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 451837,
+      "mode": "RGB"
+    },
+    "jpg": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 2672541,
+      "mode": "RGB",
+      "chroma_subsampling": "4:4:4",
+      "exceeds_5MB": false
+    },
+    "outside_safe_zone": [],
+    "outside_core_zone": [],
+    "overflowing_elements": [],
+    "smallest_text_px": 16,
+    "overlaps": [],
+    "fonts": [
+      "IBM Plex Mono 400 normal loaded",
+      "IBM Plex Mono 500 normal loaded",
+      "Newsreader 400 italic unloaded",
+      "Newsreader 400 normal loaded",
+      "Newsreader 500 normal loaded"
+    ]
+  },
+  "3-court-pdf-automation-pipeline-timing": {
+    "size": [
+      4000,
+      3000
+    ],
+    "png_bytes": 294115,
+    "jpg_bytes": 1608298,
+    "png": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 294115,
+      "mode": "RGB"
+    },
+    "jpg": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 1608298,
+      "mode": "RGB",
+      "chroma_subsampling": "4:4:4",
+      "exceeds_5MB": false
+    },
+    "outside_safe_zone": [],
+    "outside_core_zone": [],
+    "overflowing_elements": [],
+    "smallest_text_px": 16,
+    "overlaps": [],
+    "fonts": [
+      "IBM Plex Mono 400 normal loaded",
+      "IBM Plex Mono 500 normal loaded",
+      "Newsreader 400 italic loaded",
+      "Newsreader 400 normal loaded",
+      "Newsreader 500 normal loaded"
+    ]
+  },
+  "4-court-document-classification-results": {
+    "size": [
+      4000,
+      3000
+    ],
+    "png_bytes": 247184,
+    "jpg_bytes": 1748017,
+    "png": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 247184,
+      "mode": "RGB"
+    },
+    "jpg": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 1748017,
+      "mode": "RGB",
+      "chroma_subsampling": "4:4:4",
+      "exceeds_5MB": false
+    },
+    "outside_safe_zone": [],
+    "outside_core_zone": [],
+    "overflowing_elements": [],
+    "smallest_text_px": 16,
+    "overlaps": [],
+    "fonts": [
+      "IBM Plex Mono 400 normal loaded",
+      "IBM Plex Mono 500 normal loaded",
+      "Newsreader 400 italic unloaded",
+      "Newsreader 400 normal loaded",
+      "Newsreader 500 normal loaded"
+    ]
+  },
+  "5-court-pdf-indexer-verified-tests": {
+    "size": [
+      4000,
+      3000
+    ],
+    "png_bytes": 321336,
+    "jpg_bytes": 1782959,
+    "png": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 321336,
+      "mode": "RGB"
+    },
+    "jpg": {
+      "width": 4000,
+      "height": 3000,
+      "dpi_tag": [
+        300,
+        300
+      ],
+      "icc_profile": "sRGB built-in",
+      "bytes": 1782959,
+      "mode": "RGB",
+      "chroma_subsampling": "4:4:4",
+      "exceeds_5MB": false
+    },
+    "outside_safe_zone": [],
+    "outside_core_zone": [],
+    "overflowing_elements": [],
+    "smallest_text_px": 16,
+    "overlaps": [],
+    "fonts": [
+      "IBM Plex Mono 400 normal loaded",
+      "IBM Plex Mono 500 normal loaded",
+      "Newsreader 400 italic loaded",
+      "Newsreader 400 normal loaded",
+      "Newsreader 500 normal loaded"
+    ]
+  },
+  "_chromium": "141.0.7390.37"
+}

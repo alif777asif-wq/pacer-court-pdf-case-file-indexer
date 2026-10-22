@@ -1,0 +1,14 @@
+2026-10-21 09:14:23,587 INFO fetch_corpus ok doctor__ca10_010110462922.pdf 280be3c8c9ef
+2026-10-21 09:14:23,588 INFO fetch_corpus ok doctor__ca1_00117684624.pdf 9d81ff550ec8
+2026-10-21 09:14:23,588 INFO fetch_corpus ok doctor__ca2_1-1.pdf a4b93b8b9063
+2026-10-21 09:14:23,588 INFO fetch_corpus ok doctor__ca7_3.pdf ffd9b75c84a6
+2026-10-21 09:14:23,589 INFO fetch_corpus ok doctor__gov.uscourts.azd.1085839.3.0.pdf 3504c832ec68
+2026-10-21 09:14:23,589 INFO fetch_corpus ok doctor__gov.uscourts.cacd.652774.40.0.pdf 44e06abc9865
+2026-10-21 09:14:23,589 INFO fetch_corpus ok doctor__gov.uscourts.cand.203070.27.0.pdf 99101de2343b
+2026-10-21 09:14:23,589 INFO fetch_corpus ok xray__multi_line_redaction_ok.pdf 82c223c84cd5
+2026-10-21 09:14:23,589 INFO fetch_corpus ok xray__no_bad_redactions.4.1.pdf 1933de77c0bd
+2026-10-21 09:14:23,589 INFO fetch_corpus ok xray__no_bad_redactions.6.2.pdf f5c7b1ef970a
+2026-10-21 09:14:23,589 INFO fetch_corpus ok xray__rect_ordering_0.8.pdf ddb9e890915c
+2026-10-21 09:14:23,589 INFO fetch_corpus ok xray__rect_ordering_4.1.pdf 3f8e34d05f93
+2026-10-21 09:14:23,589 INFO fetch_corpus ok xray__rectangles_no.pdf 79fc25180b27
+2026-10-21 09:14:23,589 INFO fetch_corpus fetched 13 files, 0 failures

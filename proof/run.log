@@ -1,0 +1,14 @@
+2026-10-21 09:14:23,729 INFO courtfile.pipeline found 13 PDF files in data/corpus
+2026-10-21 09:14:23,729 INFO courtfile.pipeline stage start: 1 read + OCR
+2026-10-21 09:14:25,275 INFO courtfile.extract ocr data/corpus/xray__no_bad_redactions.4.1.pdf page 1: 308 chars recovered
+2026-10-21 09:14:25,322 INFO courtfile.pipeline stage done: 1 read + OCR in 1.592 s
+2026-10-21 09:14:25,322 INFO courtfile.pipeline stage start: 2 organise
+2026-10-21 09:14:25,325 INFO courtfile.pipeline stage done: 2 organise in 0.004 s
+2026-10-21 09:14:25,326 INFO courtfile.pipeline copied and verified 13 files
+2026-10-21 09:14:25,326 INFO courtfile.pipeline stage start: 3 report
+2026-10-21 09:14:25,326 INFO courtfile.pipeline stage done: 3 report in 0.000 s
+2026-10-21 09:14:25,326 INFO courtfile.pipeline stage start: 4 verify
+2026-10-21 09:14:26,710 INFO courtfile.pipeline stage done: 4 verify in 1.383 s
+2026-10-21 09:14:26,710 INFO courtfile.pipeline stage start: 5 workbook
+2026-10-21 09:14:26,732 INFO courtfile.pipeline stage done: 5 workbook in 0.022 s
+2026-10-21 09:14:26,733 INFO courtfile run complete: 13 documents, 7 needing review

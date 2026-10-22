@@ -1,0 +1,14 @@
+filename,doc_type,label_source
+doctor__ca10_010110462922.pdf,Order,manual review of page 1
+doctor__ca1_00117684624.pdf,Opinion,manual review of page 1
+doctor__ca2_1-1.pdf,Notice,manual review of page 1
+doctor__ca7_3.pdf,Order,manual review of page 1
+doctor__gov.uscourts.azd.1085839.3.0.pdf,Order,manual review of page 1
+doctor__gov.uscourts.cacd.652774.40.0.pdf,Order,manual review of page 1
+doctor__gov.uscourts.cand.203070.27.0.pdf,Unclassified,manual review of page 1 (page with no readable content)
+xray__multi_line_redaction_ok.pdf,Excerpt,manual review (interior page of a longer filing)
+xray__no_bad_redactions.4.1.pdf,Jury note,manual review of page 1
+xray__no_bad_redactions.6.2.pdf,Excerpt,manual review (interior page of a longer exhibit)
+xray__rect_ordering_0.8.pdf,Excerpt,manual review (interior page of a longer filing)
+xray__rect_ordering_4.1.pdf,Minutes,manual review of page 1
+xray__rectangles_no.pdf,Complaint,manual review of page 1

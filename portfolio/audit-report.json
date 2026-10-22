@@ -1,0 +1,57 @@
+{
+  "1-federal-court-pdf-indexer-python-outcome": {
+    "starts_with_repo_url_comment": true,
+    "repo_url_only_in_comment": true,
+    "script_tags": 0,
+    "external_resources": 0,
+    "url_like_text_in_artwork": [],
+    "emails": [],
+    "phones": [],
+    "numbers_not_found_in_results": [],
+    "visible_characters": 335
+  },
+  "2-court-pdf-organiser-before-after": {
+    "starts_with_repo_url_comment": true,
+    "repo_url_only_in_comment": true,
+    "script_tags": 0,
+    "external_resources": 0,
+    "url_like_text_in_artwork": [],
+    "emails": [],
+    "phones": [],
+    "numbers_not_found_in_results": [],
+    "visible_characters": 931
+  },
+  "3-court-pdf-automation-pipeline-timing": {
+    "starts_with_repo_url_comment": true,
+    "repo_url_only_in_comment": true,
+    "script_tags": 0,
+    "external_resources": 0,
+    "url_like_text_in_artwork": [],
+    "emails": [],
+    "phones": [],
+    "numbers_not_found_in_results": [],
+    "visible_characters": 408
+  },
+  "4-court-document-classification-results": {
+    "starts_with_repo_url_comment": true,
+    "repo_url_only_in_comment": true,
+    "script_tags": 0,
+    "external_resources": 0,
+    "url_like_text_in_artwork": [],
+    "emails": [],
+    "phones": [],
+    "numbers_not_found_in_results": [],
+    "visible_characters": 386
+  },
+  "5-court-pdf-indexer-verified-tests": {
+    "starts_with_repo_url_comment": true,
+    "repo_url_only_in_comment": true,
+    "script_tags": 0,
+    "external_resources": 0,
+    "url_like_text_in_artwork": [],
+    "emails": [],
+    "phones": [],
+    "numbers_not_found_in_results": [],
+    "visible_characters": 584
+  }
+}

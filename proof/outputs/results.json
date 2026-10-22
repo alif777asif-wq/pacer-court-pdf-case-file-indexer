@@ -1,0 +1,151 @@
+{
+  "corpus": {
+    "documents": 13,
+    "pages": 38,
+    "bytes": 1202622,
+    "courts": [
+      "azd",
+      "ca1",
+      "ca10",
+      "ca2",
+      "ca7",
+      "cacd",
+      "cand",
+      "cod"
+    ],
+    "cases": 13
+  },
+  "extraction": {
+    "pages_with_text_layer": 37,
+    "pages_ocr": 1,
+    "documents_needing_ocr": 1,
+    "ocr_seconds": 1.413
+  },
+  "identification": {
+    "stamp_families": {
+      "appellate": 4,
+      "caption": 2,
+      "district": 7
+    },
+    "case_number_found": 13,
+    "court_from_text": 9,
+    "court_from_filename": 1,
+    "court_unresolved": 3,
+    "doc_number_from_text": 9,
+    "doc_number_from_filename": 2,
+    "doc_number_unresolved": 2,
+    "filing_date_found": 9,
+    "complete_filings": 3,
+    "partial_excerpts": 4,
+    "completeness_unknown": 6
+  },
+  "classification": {
+    "by_type": {
+      "Complaint": 1,
+      "Excerpt": 3,
+      "Minutes": 1,
+      "Notice": 1,
+      "Opinion": 1,
+      "Order": 4,
+      "Unclassified": 2
+    },
+    "unclassified": 2
+  },
+  "review": {
+    "ok": 6,
+    "needs_review": 7
+  },
+  "personal_data_screen": {
+    "documents_flagged": 1,
+    "flagged_names": [
+      "doctor__ca2_1-1.pdf"
+    ],
+    "flagged_and_manually_cleared": [
+      "doctor__ca2_1-1.pdf"
+    ],
+    "flagged_unreviewed": []
+  },
+  "stage_seconds": {
+    "1 read + OCR": 1.592,
+    "2 organise": 0.004,
+    "3 report": 0.0,
+    "4 verify": 1.383,
+    "5 workbook": 0.022
+  },
+  "run_seconds": 3.004,
+  "throughput": {
+    "documents_per_second": 4.33,
+    "pages_per_second": 12.65
+  },
+  "verification": {
+    "filename_vs_text": {
+      "fields_compared": 11,
+      "agree": 11,
+      "mismatches": []
+    },
+    "reference_labels": {
+      "documents_scored": 13,
+      "correct": 12,
+      "misses": [
+        {
+          "file": "xray__no_bad_redactions.4.1.pdf",
+          "predicted": "Unclassified",
+          "reference": "Jury note"
+        }
+      ]
+    },
+    "cross_extractor": {
+      "documents_compared": 13,
+      "agree": 11,
+      "case_number_agree": 13,
+      "disagreements": [
+        {
+          "file": "doctor__gov.uscourts.cand.203070.27.0.pdf",
+          "poppler": [
+            "4:08-cv-02214-SBA",
+            null,
+            null
+          ],
+          "pdfminer": [
+            "4:08-cv-02214-SBA",
+            "26",
+            "2009-01-29"
+          ]
+        },
+        {
+          "file": "xray__no_bad_redactions.6.2.pdf",
+          "poppler": [
+            "2:20-cv-01638-DWL",
+            null,
+            null
+          ],
+          "pdfminer": [
+            "2:20-cv-01638-DWL",
+            "1-5",
+            "2020-08-20"
+          ]
+        }
+      ]
+    },
+    "copy_integrity": {
+      "files_checked": 13,
+      "mismatches": []
+    },
+    "reconciliation": {
+      "input_pdfs": 13,
+      "records": 13,
+      "csv_rows": 13,
+      "organised_files": 13,
+      "consistent": true
+    },
+    "planted_error_selftest": {
+      "errors_planted": 2,
+      "errors_caught": 2
+    }
+  },
+  "run": {
+    "started": "2026-10-21T09:14:23+0000",
+    "input_dir": "corpus",
+    "documents_unreadable": 0
+  }
+}

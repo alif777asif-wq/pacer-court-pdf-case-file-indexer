@@ -1,0 +1,26 @@
+{
+  "contrast_ratios": {
+    "text on ink": 15.36,
+    "muted on ink": 8.42,
+    "amber on ink": 8.61,
+    "text on paper": 15.19,
+    "muted on paper": 6.62,
+    "deep amber on paper": 5.61
+  },
+  "palette": {
+    "ink": "#0E1A2B",
+    "paper": "#F4F0E6",
+    "text_paper": "#101B2C",
+    "muted_dark": "#A9B5C6",
+    "muted_paper": "#4B5565",
+    "amber": "#EBAA3A",
+    "amber_deep": "#8A5200"
+  },
+  "boards": [
+    "1-federal-court-pdf-indexer-python-outcome",
+    "2-court-pdf-organiser-before-after",
+    "3-court-pdf-automation-pipeline-timing",
+    "4-court-document-classification-results",
+    "5-court-pdf-indexer-verified-tests"
+  ]
+}
